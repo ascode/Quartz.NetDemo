@@ -13,20 +13,39 @@
     <!--TestJob测试 任务配置-->
     <job>
       <name>TestJob</name>
-      <group>Test</group>
-      <description>TestJob测试</description>
-      <job-type>Quartz.NetDemo.TestJob,Quartz.NetDemo</job-type>
+      <group>Product</group>
+      <description>独立项目的TestJob测试</description>
+      <job-type>Jobs.TestJob.Job,Jobs.TestJob</job-type>
       <durable>true</durable>
       <recover>false</recover>
     </job>
     <trigger>
       <cron>
         <name>TestJobTrigger</name>
-        <group>Test</group>
+        <group>Product</group>
         <job-name>TestJob</job-name>
-        <job-group>Test</job-group>
+        <job-group>Product</job-group>
         <start-time>2015-01-22T00:00:00+08:00</start-time>
         <cron-expression>0/3 * * * * ?</cron-expression>
+      </cron>
+    </trigger>
+
+    <job>
+      <name>TestJobInner</name>
+      <group>Test</group>
+      <description>内部的TestJob测试</description>
+      <job-type>Quartz.NetDemo.TestJob,Quartz.NetDemo</job-type>
+      <durable>true</durable>
+      <recover>false</recover>
+    </job>
+    <trigger>
+      <cron>
+        <name>TestJobTriggerForInner</name>
+        <group>Test</group>
+        <job-name>TestJobInner</job-name>
+        <job-group>Test</job-group>
+        <start-time>2015-01-22T00:00:00+08:00</start-time>
+        <cron-expression>0/2 * * * * ?</cron-expression>
       </cron>
     </trigger>
 

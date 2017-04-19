@@ -1,0 +1,15 @@
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\bin\Debug\Jobs.TestJob.dll
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\bin\Debug\Jobs.TestJob.pdb
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\bin\Debug\Common.Logging.Core.dll
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\bin\Debug\Common.Logging.dll
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\bin\Debug\log4net.dll
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\bin\Debug\Quartz.dll
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\bin\Debug\Common.Logging.pdb
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\bin\Debug\Common.Logging.xml
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\bin\Debug\Common.Logging.Core.pdb
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\bin\Debug\Common.Logging.Core.xml
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\bin\Debug\log4net.xml
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\bin\Debug\Quartz.pdb
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\bin\Debug\Quartz.xml
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\obj\Debug\Jobs.TestJob.dll
+C:\D\work\实验室\Quartz.NetDemo\Jobs\Jobs.TestJob\obj\Debug\Jobs.TestJob.pdb

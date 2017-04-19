@@ -1,0 +1,379 @@
+2017-04-19 14:17:15,260 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 14:17:15,291 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 14:17:15,485 [1] DEBUG Topshelf.Runtime.Windows.WindowsHostEnvironment - Started by the Windows services process
+ Topshelf.Runtime.Windows.WindowsHostEnvironmentname2017-04-19 14:17:15,487 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a service, creating service host.
+ Topshelf.Builders.RunBuildername2017-04-19 14:17:15,493 [1] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - Starting as a Windows service
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-04-19 14:17:15,497 [1] DEBUG Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Starting up as a windows service application
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-04-19 14:17:15,500 [17] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Starting
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-04-19 14:17:15,501 [17] DEBUG Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Current Directory: C:\D\work\实验室\Quartz.NetDemo\Quartz.NetDemo\bin\Debug
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-04-19 14:17:15,501 [17] DEBUG Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Arguments: 
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-04-19 14:17:15,870 [17] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Started
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-04-19 14:17:15,918 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:17:18,000 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:17:21,005 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:17:24,000 [QuartzTest_Worker-4] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:17:27,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:17:30,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:17:33,000 [QuartzTest_Worker-7] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:17:36,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:17:39,000 [QuartzTest_Worker-9] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:17:42,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:17:45,000 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:17:48,000 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:17:51,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:17:54,000 [QuartzTest_Worker-4] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:17:57,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:00,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:03,000 [QuartzTest_Worker-7] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:06,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:09,008 [QuartzTest_Worker-9] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:12,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:15,000 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:18,000 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:21,001 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:24,000 [QuartzTest_Worker-4] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:27,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:30,002 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:33,000 [QuartzTest_Worker-7] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:36,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:39,000 [QuartzTest_Worker-9] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:42,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:45,000 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:48,001 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:51,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:54,000 [QuartzTest_Worker-4] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:18:57,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:00,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:03,000 [QuartzTest_Worker-7] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:06,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:09,001 [QuartzTest_Worker-9] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:12,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:15,000 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:18,000 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:21,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:24,008 [QuartzTest_Worker-4] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:27,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:30,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:33,006 [QuartzTest_Worker-7] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:36,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:39,000 [QuartzTest_Worker-9] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:42,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:45,000 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:48,000 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:51,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:54,000 [QuartzTest_Worker-4] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:19:57,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:00,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:03,000 [QuartzTest_Worker-7] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:06,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:09,000 [QuartzTest_Worker-9] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:12,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:15,000 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:18,000 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:21,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:24,000 [QuartzTest_Worker-4] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:27,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:30,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:33,000 [QuartzTest_Worker-7] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:36,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:39,000 [QuartzTest_Worker-9] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:42,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:45,000 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:48,036 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:51,016 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:54,000 [QuartzTest_Worker-4] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:20:57,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:00,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:03,002 [QuartzTest_Worker-7] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:06,016 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:09,000 [QuartzTest_Worker-9] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:12,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:15,000 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:18,000 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:21,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:24,000 [QuartzTest_Worker-4] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:27,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:30,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:33,000 [QuartzTest_Worker-7] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:36,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:39,000 [QuartzTest_Worker-9] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:42,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:45,000 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:48,004 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:51,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:54,000 [QuartzTest_Worker-4] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:21:57,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:00,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:03,000 [QuartzTest_Worker-7] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:06,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:09,000 [QuartzTest_Worker-9] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:12,009 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:15,000 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:18,000 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:21,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:24,013 [QuartzTest_Worker-4] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:27,017 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:30,006 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:33,020 [QuartzTest_Worker-7] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:36,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:39,000 [QuartzTest_Worker-9] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:42,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:45,000 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:48,000 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:51,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:54,000 [QuartzTest_Worker-4] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:22:57,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:23:00,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:23:03,000 [QuartzTest_Worker-7] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:23:06,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:23:09,000 [QuartzTest_Worker-9] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:23:12,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:23:13,851 [18] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Stopping
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-04-19 14:23:13,863 [18] INFO  Topshelf.Runtime.Windows.WindowsServiceHost - [Topshelf] Stopped
+ Topshelf.Runtime.Windows.WindowsServiceHostname2017-04-19 14:23:22,897 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 14:23:22,944 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 14:23:23,730 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-04-19 14:23:23,767 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:23:24,640 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:23:24,648 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:23:27,000 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:23:30,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:23:30,859 [16] INFO  Topshelf.Hosts.ConsoleRunHost - Control+C detected, attempting to stop service.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:23:30,914 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service has stopped.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:24:19,824 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 14:24:19,892 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 14:24:21,081 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-04-19 14:24:21,258 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:24:22,018 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:24:22,034 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:24:24,000 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:24:27,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:53:10,690 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 14:53:10,725 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 14:53:11,604 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-04-19 14:53:11,722 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:53:12,043 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:54:24,424 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 14:54:25,683 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 14:54:26,440 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-04-19 14:54:26,463 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:54:26,899 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:54:34,556 [16] INFO  Topshelf.Hosts.ConsoleRunHost - Control+C detected, attempting to stop service.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:54:34,586 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service has stopped.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:55:02,184 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 14:55:05,837 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 14:55:06,198 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-04-19 14:55:06,214 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:55:06,679 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:55:06,728 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:55:09,000 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:55:12,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 14:57:39,012 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 14:57:39,859 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 14:57:40,511 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-04-19 14:57:40,628 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:57:41,216 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:59:35,126 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 14:59:39,273 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 14:59:39,689 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-04-19 14:59:39,702 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:59:40,151 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:59:40,203 [QuartzTest_Worker-1] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 14:59:42,000 [QuartzTest_Worker-2] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 14:59:45,000 [QuartzTest_Worker-3] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 14:59:48,000 [QuartzTest_Worker-4] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 14:59:51,000 [QuartzTest_Worker-5] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 14:59:54,000 [QuartzTest_Worker-6] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 14:59:55,351 [16] INFO  Topshelf.Hosts.ConsoleRunHost - Control+C detected, attempting to stop service.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 14:59:55,366 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service has stopped.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:02:31,852 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 15:02:31,903 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 15:02:32,648 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-04-19 15:02:32,708 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:02:33,649 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:03:27,367 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 15:03:27,511 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 15:03:28,674 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-04-19 15:03:28,786 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:03:29,502 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:04:33,970 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 15:04:39,798 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 15:04:40,147 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-04-19 15:04:40,236 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:04:40,713 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:04:40,732 [QuartzTest_Worker-1] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:04:42,000 [QuartzTest_Worker-2] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:04:45,000 [QuartzTest_Worker-3] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:04:48,000 [QuartzTest_Worker-4] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:04:51,000 [QuartzTest_Worker-5] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:04:54,000 [QuartzTest_Worker-6] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:04:57,000 [QuartzTest_Worker-7] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:00,000 [QuartzTest_Worker-8] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:03,006 [QuartzTest_Worker-9] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:06,000 [QuartzTest_Worker-10] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:09,000 [QuartzTest_Worker-1] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:12,000 [QuartzTest_Worker-2] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:15,000 [QuartzTest_Worker-3] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:18,000 [QuartzTest_Worker-5] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:21,000 [QuartzTest_Worker-4] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:24,000 [QuartzTest_Worker-6] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:27,017 [QuartzTest_Worker-7] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:30,000 [QuartzTest_Worker-8] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:33,000 [QuartzTest_Worker-9] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:36,000 [QuartzTest_Worker-10] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:39,000 [QuartzTest_Worker-1] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:42,000 [QuartzTest_Worker-2] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:05:45,000 [QuartzTest_Worker-3] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:15:26,943 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 15:15:29,122 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 15:15:29,490 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-04-19 15:15:29,526 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:15:30,095 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:15:30,131 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:15:32,000 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:15:34,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:15:36,000 [QuartzTest_Worker-4] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:15:38,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:15:40,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:15:42,000 [QuartzTest_Worker-7] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:15:44,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:17:02,975 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 15:17:03,006 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 15:17:04,092 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-04-19 15:17:04,140 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:17:05,005 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:17:05,056 [QuartzTest_Worker-1] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:05,068 [QuartzTest_Worker-2] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:06,000 [QuartzTest_Worker-3] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:06,000 [QuartzTest_Worker-4] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:08,000 [QuartzTest_Worker-5] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:09,000 [QuartzTest_Worker-6] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:10,000 [QuartzTest_Worker-7] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:12,000 [QuartzTest_Worker-8] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:12,000 [QuartzTest_Worker-9] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:14,000 [QuartzTest_Worker-10] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:15,000 [QuartzTest_Worker-1] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:16,000 [QuartzTest_Worker-2] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:18,000 [QuartzTest_Worker-4] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:18,000 [QuartzTest_Worker-3] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:20,000 [QuartzTest_Worker-5] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:17:21,000 [QuartzTest_Worker-6] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:19:02,086 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 15:19:02,140 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 15:19:02,995 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-04-19 15:19:03,146 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:19:03,703 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:19:13,647 [16] INFO  Topshelf.Hosts.ConsoleRunHost - Control+C detected, attempting to stop service.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:19:13,703 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service has stopped.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:20:31,203 [1] INFO  Topshelf.HostFactory - Configuration Result:
+[Success] Name QuartzDemo服务名称
+[Success] DisplayName QuartzDemo服务显示名称
+[Success] Description QuartzDemo服务描述
+[Success] ServiceName QuartzDemo服务名称
+ Topshelf.HostFactoryname2017-04-19 15:20:31,271 [1] INFO  Topshelf.HostConfigurators.HostConfiguratorImpl - Topshelf v3.3.154.0, .NET Framework v4.0.30319.42000
+ Topshelf.HostConfigurators.HostConfiguratorImplname2017-04-19 15:20:32,342 [1] DEBUG Topshelf.Builders.RunBuilder - Running as a console application, creating the console host.
+ Topshelf.Builders.RunBuildername2017-04-19 15:20:32,423 [1] DEBUG Topshelf.Hosts.ConsoleRunHost - Starting up as a console application
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:20:33,218 [1] INFO  Topshelf.Hosts.ConsoleRunHost - The QuartzDemo服务名称 service is now running, press Control+C to exit.
+ Topshelf.Hosts.ConsoleRunHostname2017-04-19 15:20:33,270 [QuartzTest_Worker-1] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:20:33,272 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:20:34,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:20:36,000 [QuartzTest_Worker-4] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:20:36,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:20:38,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:20:39,000 [QuartzTest_Worker-7] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:20:40,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:20:42,000 [QuartzTest_Worker-9] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:20:42,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:20:44,000 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:20:45,000 [QuartzTest_Worker-2] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:20:46,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:20:48,000 [QuartzTest_Worker-4] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:20:48,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:20:50,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:20:51,000 [QuartzTest_Worker-7] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:20:52,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:20:54,000 [QuartzTest_Worker-9] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:20:54,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:20:56,000 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:20:57,000 [QuartzTest_Worker-2] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:20:58,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:21:00,001 [QuartzTest_Worker-4] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:21:00,002 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:21:02,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:21:03,000 [QuartzTest_Worker-7] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:21:04,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:21:06,000 [QuartzTest_Worker-9] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:21:06,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:21:08,000 [QuartzTest_Worker-1] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:21:09,000 [QuartzTest_Worker-2] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:21:10,000 [QuartzTest_Worker-3] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:21:12,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:21:12,000 [QuartzTest_Worker-4] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:21:14,000 [QuartzTest_Worker-6] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:21:15,000 [QuartzTest_Worker-7] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:21:16,000 [QuartzTest_Worker-8] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:21:18,000 [QuartzTest_Worker-9] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:21:18,000 [QuartzTest_Worker-10] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:21:34,524 [QuartzTest_Worker-1] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:21:34,524 [QuartzTest_Worker-2] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:21:36,000 [QuartzTest_Worker-3] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname2017-04-19 15:21:36,000 [QuartzTest_Worker-5] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:21:38,000 [QuartzTest_Worker-4] INFO  Quartz.NetDemo.TestJob - TestJob测试
+ Quartz.NetDemo.TestJobname2017-04-19 15:21:39,000 [QuartzTest_Worker-6] INFO  Jobs.TestJob.Job - 独立项目的TestJob测试
+ Jobs.TestJob.Jobname

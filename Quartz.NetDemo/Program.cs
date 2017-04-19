@@ -22,7 +22,7 @@ namespace Quartz.NetDemo
                 x.SetDescription("QuartzDemo服务描述");
                 x.SetDisplayName("QuartzDemo服务显示名称");
                 x.SetServiceName("QuartzDemo服务名称");
-
+                
                 x.EnablePauseAndContinue();
             });
         }
