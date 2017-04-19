@@ -20,3 +20,6 @@ D:\work\实验室\Quartz.NetDemo\Quartz.NetDemo\bin\Debug\Quartz.xml
 D:\work\实验室\Quartz.NetDemo\Quartz.NetDemo\obj\Debug\Quartz.NetDemo.csprojResolveAssemblyReference.cache
 D:\work\实验室\Quartz.NetDemo\Quartz.NetDemo\obj\Debug\Quartz.NetDemo.exe
 D:\work\实验室\Quartz.NetDemo\Quartz.NetDemo\obj\Debug\Quartz.NetDemo.pdb
+D:\work\实验室\Quartz.NetDemo\Quartz.NetDemo\bin\Debug\quartz_jobs.xml
+D:\work\实验室\Quartz.NetDemo\Quartz.NetDemo\bin\Debug\log4net.config
+D:\work\实验室\Quartz.NetDemo\Quartz.NetDemo\bin\Debug\quartz.config
