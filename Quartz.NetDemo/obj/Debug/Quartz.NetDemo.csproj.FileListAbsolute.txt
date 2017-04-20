@@ -49,7 +49,6 @@ C:\D\work\实验室\Quartz.NetDemo\Quartz.NetDemo\obj\Debug\Quartz.NetDemo.cspro
 C:\D\work\实验室\Quartz.NetDemo\Quartz.NetDemo\obj\Debug\Quartz.NetDemo.exe
 C:\D\work\实验室\Quartz.NetDemo\Quartz.NetDemo\obj\Debug\Quartz.NetDemo.pdb
 C:\D\work\实验室\Quartz.NetDemo\Quartz.NetDemo\bin\Debug\install.bat
-C:\D\work\实验室\Quartz.NetDemo\Quartz.NetDemo\bin\Debug\pause.bat
 C:\D\work\实验室\Quartz.NetDemo\Quartz.NetDemo\bin\Debug\restart.bat
 C:\D\work\实验室\Quartz.NetDemo\Quartz.NetDemo\bin\Debug\start.bat
 C:\D\work\实验室\Quartz.NetDemo\Quartz.NetDemo\bin\Debug\stop.bat

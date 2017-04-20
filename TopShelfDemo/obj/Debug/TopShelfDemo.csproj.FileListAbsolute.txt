@@ -1,0 +1,10 @@
+C:\D\work\实验室\Quartz.NetDemo\TopShelfDemo\bin\Debug\TopShelfDemo.exe.config
+C:\D\work\实验室\Quartz.NetDemo\TopShelfDemo\bin\Debug\TopShelfDemo.exe
+C:\D\work\实验室\Quartz.NetDemo\TopShelfDemo\bin\Debug\TopShelfDemo.pdb
+C:\D\work\实验室\Quartz.NetDemo\TopShelfDemo\bin\Debug\log4net.dll
+C:\D\work\实验室\Quartz.NetDemo\TopShelfDemo\bin\Debug\Topshelf.dll
+C:\D\work\实验室\Quartz.NetDemo\TopShelfDemo\bin\Debug\Topshelf.Log4Net.dll
+C:\D\work\实验室\Quartz.NetDemo\TopShelfDemo\bin\Debug\log4net.xml
+C:\D\work\实验室\Quartz.NetDemo\TopShelfDemo\obj\Debug\TopShelfDemo.csprojResolveAssemblyReference.cache
+C:\D\work\实验室\Quartz.NetDemo\TopShelfDemo\obj\Debug\TopShelfDemo.exe
+C:\D\work\实验室\Quartz.NetDemo\TopShelfDemo\obj\Debug\TopShelfDemo.pdb
